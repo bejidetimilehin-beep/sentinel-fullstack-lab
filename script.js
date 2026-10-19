@@ -169,6 +169,5 @@ document.addEventListener("DOMContentLoaded", function () {
         message.textContent = "New game! Make your first guess.";
         guessInput.value = "";
         guessInput.focus();
-    });
-})();
+/* SENTINEL ALGORITHM 2: NUMBER GUESSING GAME */
 
